@@ -1,0 +1,23 @@
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+/* 改变主题色变量 */
+/* 主要按钮 */
+$--color-primary:rgb(4, 108, 194);
+/* 成功按钮 */
+$--color-success: #67C23A;
+/* 信息按钮 */
+$--color-info: #909399;
+/* 警告按钮 */
+$--color-warning: #E6A23C;
+/* 危险按钮 */
+$--color-danger: #F56C6C;
+
+/* 引入所有组件的scss */
+@import "~element-ui/packages/theme-chalk/src/index";
+/* 引入单个组件的scss */
+/*@import "~element-ui/packages/theme-chalk/src/base.scss";
+@import "~element-ui/packages/theme-chalk/src/rate.scss";
+@import "~element-ui/packages/theme-chalk/src/button.scss";
+@import "~element-ui/packages/theme-chalk/src/row.scss";*/

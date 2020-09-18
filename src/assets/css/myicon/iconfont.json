@@ -1,0 +1,30 @@
+{
+  "id": "1426865",
+  "name": "myicon",
+  "font_family": "",
+  "css_prefix_text": "el-icon-lu-",
+  "description": "我的专用icon",
+  "glyphs": [
+    {
+      "icon_id": "826095",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4766685",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "4936656",
+      "name": "home-fill",
+      "font_class": "home-fill",
+      "unicode": "e905",
+      "unicode_decimal": 59653
+    }
+  ]
+}
